@@ -10,8 +10,8 @@ First, open the windows security app through the windows button :&#x20;
 
 Next, navigate to the virus and threat protection window, then click manage settings :
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Timurf22/EsysForBeginnersGitbook/.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 From here, turn off real time Protection :
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Timurf22/EsysForBeginnersGitbook/.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
