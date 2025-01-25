@@ -10,7 +10,7 @@ First, open the windows security app through the windows button :&#x20;
 
 Next, navigate to the virus and threat protection window, then click manage settings :
 
-<figure><img src="https://github.com/user-attachments/assets/e60d4b64-f8ba-402d-b746-bec3fb942f37)" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/user-attachments/assets/e60d4b64-f8ba-402d-b746-bec3fb942f37" alt=""><figcaption></figcaption></figure>
 
 From here, turn off real time Protection :
 
