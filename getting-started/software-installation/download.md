@@ -7,8 +7,12 @@ After downloading this, open the file and double click the E sys Setup
 
 Now click extract all then extract, After this, a new window will open up. Here, you want to click the Esys Setup file again. Detailed in the gif below
 
-{% embed url="https://github.com/user-attachments/assets/bd33b6a4-4fab-4345-9e19-48cb65fdc939" %}
+<figure><img src="../../.gitbook/assets/install (3).gif" alt=""><figcaption></figcaption></figure>
+
+
 
 After this, move the generator to desktop and run the launcher pro build
 
-{% embed url="https://github.com/user-attachments/assets/beda9ed1-46de-497e-861d-533395a9c968" %}
+
+
+<figure><img src="../../.gitbook/assets/gen (1).gif" alt=""><figcaption></figcaption></figure>
